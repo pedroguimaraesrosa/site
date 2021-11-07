@@ -1,0 +1,123 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Open+Sans&family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mohave&display=swap');
+
+:root{
+    --cor1:#223A59;
+    --cor2:#192A40;
+    --cor3:#778BA6;
+    --cor4:#C2D7F2;
+    --cor5:#ADC0D9;
+
+    --fonte-de-conteúdo:'Open Sans', serif;
+    --fonte-de-destaque:'Merriweather', helvetica ,sans-serif;
+    --fonte-de-titulo:'Quicksand', sans-serif;
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    text-align: right;
+    background-color: var(--cor2);
+    width: 100%;
+    margin-left: 20px;
+
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 23px;
+    color: white;
+    font-family: 'Mohave', sans-serif;
+    margin: 3px;
+}
+
+nav a:hover{
+    background-color: var(--cor3);
+    transition-duration: .7s;
+    text-decoration: underline;
+
+}
+
+header{
+   background-color: var(--cor2);
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 10px;
+
+
+}
+
+ #image{
+     display: block;
+     margin: auto;
+     max-width: 1000px;
+     min-width: 240px;
+     margin-bottom: 30px;
+     
+}
+
+#imgh2{
+    max-height: 500px;
+    max-width: 1000px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+header > h1{
+    color: white;
+    text-align: center;
+    font-family: var(--fonte-de-conteúdo);
+    
+}
+header p{
+    color: white;
+    text-align: center;
+    margin-top: 7px;
+}
+body{
+    background-color: var(--cor4  );
+}
+
+main{
+    min-width: 300px;
+    max-width: 1000px;
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    text-align: justify;
+}
+ul{
+    font-family: var(--fonte-de-conteúdo);
+    background-color: var(--cor4);
+    list-style-position: inside;
+    list-style-type:"✔️\00A0";
+    line-height: 2em;
+    margin-bottom: 30px;
+}
+main h1{
+    font-family: var(--fonte-de-destaque);
+    text-align: center;
+    margin-bottom: 30px;
+}
+main h2{
+    font-family: var(--fonte-de-titulo);
+    margin: 10px;
+}
+main p{
+    font-family: var(--fonte-de-conteúdo);
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
