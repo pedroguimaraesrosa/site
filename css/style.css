@@ -116,6 +116,7 @@ main p{
 
 main img.home{
     max-height: 300px;
+    max-width: 600px;
     display: block;
     margin: auto;
 }
