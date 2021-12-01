@@ -115,7 +115,7 @@ main p{
 }
 
 main img.home{
-    max-width: 430px;
+    max-width: 300px;
     display: block;
     margin: auto;
 }
