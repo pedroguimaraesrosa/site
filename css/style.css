@@ -17,11 +17,9 @@
 *{
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
-}
+
 nav{
     text-align: right;
-    background-color: var(--cor2);
     
     margin-left: 20px;
 
