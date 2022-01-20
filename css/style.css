@@ -142,4 +142,5 @@ div#cat{
     margin: auto;
     background-attachment: fixed;
     background-size: contain;
+    background-repeat: no-repeat;
 }
