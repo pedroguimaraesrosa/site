@@ -1,0 +1,56 @@
+h1 - adelle sans - semi-bold 43px #00000
+h2 - heroic bold 35 px #424242
+h3 - Sans-serif  bold 18px 424242
+p - Sans-serif 18px
+
+
+h1 - NFTs, explained
+
+p - I have questions about this emerging... um... art form? Platform?
+
+imagem ( cat.png)
+
+
+p - There’s nothing like an explosion of blockchain news to leave you thinking, “Um… what’s going on here?” That’s the feeling I’ve experienced while reading about Grimes getting millions of dollars for NFTs or about Nyan Cat being sold as one. And by the time we all thought we sort of knew what the deal was, the founder of Twitter put an autographed tweet up for sale as an NFT. Now, months after we first published this explainer, we’re still seeing headlines about people paying house-money for clip art of rocks — and my mom still doesn’t really understand what an NFT is.
+
+You might be wondering: what is an NFT, anyhow?
+
+After literal hours of reading, I think I know. I also think I’m going to cry.
+
+Okay, let’s start with the basics:
+
+h2 - WHAT IS AN NFT? WHAT DOES NFT STAND FOR? (heroic bold 35 px #424242)
+
+p - Non-fungible token.
+
+h2 - That doesn’t make it any clearer.
+
+Right, sorry. “Non-fungible” more or less means that it’s unique and can’t be replaced with something else. For example, a bitcoin is fungible — trade one for another bitcoin, and you’ll have exactly the same thing. A one-of-a-kind trading card, however, is non-fungible. If you traded it for a different card, you’d have something completely different. You gave up a Squirtle, and got a 1909 T206 Honus Wagner, which StadiumTalk calls “the Mona Lisa of baseball cards." (I’ll take their word for it.
+
+h2 - How do NFTs work?
+
+p - At a very high level, most NFTs are part of the Ethereum blockchain. Ethereum is a cryptocurrency, like bitcoin or dogecoin, but its blockchain also supports these NFTs, which store extra information that makes them work differently from, say, an ETH coin. It is worth noting that other blockchains can implement their own versions of NFTs. (Some already have.)
+
+h2 - What’s worth picking up at the NFT supermarket?
+
+p - NFTs can really be anything digital (such as drawings, music, your brain downloaded and turned into an AI), but a lot of the current excitement is around using the tech to sell digital art.
+
+gif (cat.gif)
+
+h2 -You mean, like, people buying my good tweets?
+
+p - I don’t think anyone can stop you, but that’s not really what I meant. A lot of the conversation is about NFTs as an evolution of fine art collecting, only with digital art.
+
+(Side note, when coming up with the line “buying my good tweets,” we were trying to think of something so silly that it wouldn’t be a real thing. So of course the founder of Twitter sold one for just under $3 million shortly after we posted the article.)
+
+h2 - Do people really think this will become like art collecting?
+
+p - I’m sure some people really hope so — like whoever paid almost $390,000 for a 50-second video by Grimes or the person who paid $6.6 million for a video by Beeple. Actually, one of Beeple’s pieces was auctioned at Christie’s, the famou—
+
+(bb.jpg)
+
+h2 - Sorry, I was busy right-clicking on that Beeple video and downloading the same file the person paid millions of dollars for.
+
+p - Wow, rude. But yeah, that’s where it gets a bit awkward. You can copy a digital file as many times as you want, including the art that’s included with an NFT.
+
+But NFTs are designed to give you something that can’t be copied: ownership of the work (though the artist can still retain the copyright and reproduction rights, just like with physical artwork). To put it in terms of physical art collecting: anyone can buy a Monet print. But only one person can own the original.
