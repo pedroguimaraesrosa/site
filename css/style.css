@@ -135,8 +135,8 @@ footer{
 
 
 div#cat{
-    width: 600px;
-    height: 400px;
+    height: 300px;
+    width: 400px;
     background-image: url("../img-post-nft/cat.PNG");
     background-position: center center;
     margin: auto;
