@@ -86,13 +86,13 @@ header p{
     margin-top: 7px;
 }
 body{
-    background-color: #EEE2DB;
+    background-color: #ADC0D9;
 }
 
 main{
     max-width: 700px;
     background-color: white;
-    padding: 10px;
+    padding: 20px;
     margin: auto;
     text-align: justify;
 }
@@ -137,10 +137,21 @@ footer{
 div#cat{
     height: 300px;
     width: 400px;
-    background-image: url("../img-post-nft/cat.PNG");
+    background-image: url("../image/john-noonan-QM_LE41VJJ4-unsplash.jpg");
     background-position: center center;
     margin: auto;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+div#dog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div#baby{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
