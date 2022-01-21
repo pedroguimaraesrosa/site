@@ -132,26 +132,18 @@ footer{
     text-align: center;
     padding: 20px;
 }
+div.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
-div#cat{
-    height: 300px;
-    width: 400px;
+div#john{
+    height: 100px;
+    width: 100opx;
     background-image: url("../image/john-noonan-QM_LE41VJJ4-unsplash.jpg");
-    background-position: center center;
-    margin: auto;
-    background-attachment: fixed;
     background-size: cover;
-    background-repeat: no-repeat;
-}
+    background-position: center center;
 
-div#dog{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-div#baby{
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
