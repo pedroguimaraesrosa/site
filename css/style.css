@@ -94,7 +94,7 @@ main{
     background-color: white;
     padding: 20px;
     margin: auto;
-    text-align: justify;
+    text-align: justify;;
 }
 ul{
     font-family: var(--fonte-de-conteúdo);

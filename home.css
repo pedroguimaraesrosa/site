@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header > div#inicio{
+    background-image: url('../site/image/wp4676582.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 90vh;
+}
+
+#text-image{
+    position: absolute;
+    bottom: 400px;
+    color: white;
+    font-size: 50px;
+    text-shadow: 2px 2px 0px black;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: cornflowerblue;
+    display: inline-block;
+    margin-right: 1vw;
+}
