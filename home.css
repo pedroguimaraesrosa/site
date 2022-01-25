@@ -40,6 +40,12 @@ a:hover{
 }
 body{
     background-color: var(--cor1);
+    height: 95vh;
+    background-image: url('image/crap.png');
+    background-image: url('image/crap2.png');
+    background-size: 100px;
+    background-repeat: repeat-x;
+    background-position: center left;
 }
 main{
     width: 968px;
@@ -64,7 +70,6 @@ div#box2{
 div#box3{
     background-color: yellowgreen;
 }
-
 footer{
     background-color: black;
     color: white;
