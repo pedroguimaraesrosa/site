@@ -1,27 +1,74 @@
 *{
-    padding: 0px;
     margin: 0px;
+    padding: 0px;
 }
+:root{
+    --cor1:#223A59;
+    --cor2:#192A40;
+    --cor3:#778BA6;
+    --cor4:#C2D7F2;
+    --cor5:#ADC0D9;
 
-header > div#inicio{
-    background-image: url('../site/image/wp4676582.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-    height: 90vh;
+    --fonte-de-conteúdo:'Open Sans', serif;
+    --fonte-de-destaque:'Merriweather', helvetica ,sans-serif;
+    --fonte-de-titulo:'Quicksand', sans-serif;
+    
 }
-
-#text-image{
-    position: absolute;
-    bottom: 400px;
+header{
+    background-color: black;
+    text-align: center;
     color: white;
-    font-size: 50px;
-    text-shadow: 2px 2px 0px black;
 }
 
-.box{
-    height: 300px;
+header > h1{
+    padding-top: 50px;
+}
+header > p{
+    padding-bottom: 50px;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: #3566af;
+    color: black;
+}
+body{
+    background-color: var(--cor1);
+}
+main{
+    width: 968px;
+    margin: auto;
+    background-color: white;
+}
+
+div.box{
     width: 300px;
-    background-color: cornflowerblue;
+    height: 300px;
+    margin:10px;
     display: inline-block;
-    margin-right: 1vw;
+}
+
+div#box1{
+    background-color: burlywood;
+}
+
+div#box2{
+    background-color: yellow;
+}
+div#box3{
+    background-color: yellowgreen;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    
 }
