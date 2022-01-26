@@ -33,7 +33,7 @@ header a{
     font-weight: bold;
 }
 
-a:hover{
+header > nav > a:hover{
     text-decoration: underline;
     background-color: #3566af;
     color: black;
@@ -51,24 +51,78 @@ main{
     width: 968px;
     margin: auto;
     background-color: white;
+    border-radius: 10px;
 }
 
+main > h2{
+    font-size: 2em;
+    background-image: linear-gradient( to right, var(--cor4), transparent);
+    padding: 5px;
+    
+    
+}
+
+main > p{
+    line-height: 2em;
+    font-size: 20px;
+    padding: 10px;
+    text-align: justify;
+}
 div.box{
     width: 300px;
-    height: 300px;
+    height: 200px;
     margin:10px;
     display: inline-block;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+}
+
+div.box > p{
+    background-color: white;
+    font-size: 20px;
+}
+
+div.box > p > a{
+    border-radius: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+div.box > p > a:hover{
+    background-image: linear-gradient( to right, #d9ff00, transparent);
+    padding: 2px;
 }
 
 div#box1{
     background-color: burlywood;
+    background-image: url('image/friends-500x280.jpeg');
 }
 
 div#box2{
     background-color: yellow;
+    background-image: url('image/collaboration-509x280.jpeg');
 }
+
+
+
 div#box3{
     background-color: yellowgreen;
+    background-image: url("image/online-filter-1-538x280.jpg");
+}
+
+div#box4{
+    background-image: url('image/vpn.jpg');
+}
+
+div#box5{
+    background-image: url('image/phonefeat2-538x280.jpg');
+}
+
+div#box6{
+    background-image: url('image/image.jpg');
 }
 footer{
     background-color: black;
