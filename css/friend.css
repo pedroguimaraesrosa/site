@@ -36,6 +36,9 @@ div#fundo{
 }
 main{
     padding: 10px;
+    width: 800px;
+    margin: auto;
+    text-align: justify;
 }
 main > h1 {
     margin: 10px;
@@ -51,20 +54,19 @@ main > p{
     line-height: 30px;
     margin: 10px;
 }
-main > p#blue {
-    text-align: justify;
-    line-height: 30px;
-    font-size: 4vh;
-    width: 700px;
+aside{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    background-image: url('');
 }
-
-div#img-main{
-    width: 400px;
-    height: 300px;
-    background-image: url("../img-friends/3193464.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin: -278px 34% -22px 59%;
+ul{
+    padding: 20px;
+    width: 500px;
+    text-align: justify;
+    line-height: 24px;
+    font-size: 23px;
+    margin: auto;
+    background-color: white;
 }
 
 footer{
@@ -73,3 +75,5 @@ footer{
     padding: 10px;
     color: white;
 }
+
+
