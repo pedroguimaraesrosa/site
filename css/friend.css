@@ -36,7 +36,7 @@ div#fundo{
 }
 main{
     padding: 10px;
-    width: 800px;
+    max-width: 800px;
     margin: auto;
     text-align: justify;
 }
@@ -58,6 +58,7 @@ aside{
     background-color: cornflowerblue;
     border-radius: 10px;
     background-image: url('');
+    
 }
 ul{
     padding: 20px;
@@ -67,6 +68,9 @@ ul{
     font-size: 23px;
     margin: auto;
     background-color: white;
+    border-radius: 10px;
+    list-style-type: "\1F44B";
+    
 }
 
 footer{
@@ -75,5 +79,3 @@ footer{
     padding: 10px;
     color: white;
 }
-
-
